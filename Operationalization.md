@@ -1,4 +1,5 @@
 According to our notes, the following things matter in creating a safety score:
+
 -Lighting
 -Eyes on the street - open businesses, residences, cameras, etc.
 -Historic crime data
