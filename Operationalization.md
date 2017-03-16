@@ -1,16 +1,22 @@
 According to our notes, the following things matter in creating a safety score:
 
-- Lighting
-- Eyes on the street - open businesses, residences, cameras, etc.
-- Historic crime data
-- Foot traffic
-- What's the average wait time for transportation arrival?
-- Is the waiting area obscured from public view?
-- What kind of street furniture is provided?
-- How often is the area patrolled by public safety officers?
+1. Lighting
+2. Eyes on the street - open businesses, residences, cameras, etc.
+3. Historic crime data
+4. Foot traffic
+5. What's the average wait time for transportation arrival?
+6. Is the waiting area obscured from public view?
+7. What kind of street furniture is provided?
+8. How often is the area patrolled by public safety officers?
 
 So, where can we get data on how to quanitfy these things?
 
----
-#### More notes on how to create a safety score:
-* From Oregon Walks Pedestrian Level of Service project, [ways to quantify a transit facility in terms of pedestrian friendliness](https://github.com/OregonWalks/level-of-service/wiki/Pedestrian-Level-of-Service-Factors-Discussion#transit-facilities)
+1. 
+2. 
+3.  [NYC OpenData: NYPD Complaint Data Historic](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
+4. 
+5. 
+6. 
+7. 
+8. 
+[Misc.] 
