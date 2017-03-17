@@ -18,6 +18,7 @@ So, where can we get data on how to quanitfy these things?
     - [NYC OpenData: NYPD Complaint Data Historic](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
 4. Foot traffic:
     - NYC OpenData "Bi-Annual Pedestrian Counts" don't provide enough information; only 114 locations in all of NYC.
+    -Placemeter's data is a single snapshot from [November 2013](http://www.nyc.gov/html/analytics/html/misc/definitions.html) and raw data is not available.
 5. 
 6. 
 7. Street furniture:
