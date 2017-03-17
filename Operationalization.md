@@ -20,6 +20,7 @@ So, where can we get data on how to quanitfy these things?
     - NYC OpenData "Bi-Annual Pedestrian Counts" don't provide enough information; only 114 locations in all of NYC.
 5. 
 6. 
-7. 
+7. Street furniture:
+    - Open Request w/ NYC OpenData
 8. 
 [Misc.] 
