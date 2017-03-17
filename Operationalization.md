@@ -14,8 +14,10 @@ So, where can we get data on how to quanitfy these things?
 1. 
 2.  - Business License filings https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh
     - Yelp API https://www.yelp.com/developers/documentation/v2/business
-3.  [NYC OpenData: NYPD Complaint Data Historic](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
-4. 
+3.  Crime:
+    - [NYC OpenData: NYPD Complaint Data Historic](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
+4. Foot traffic:
+    - NYC OpenData "Bi-Annual Pedestrian Counts" don't provide enough information; only 114 locations in all of NYC.
 5. 
 6. 
 7. 
