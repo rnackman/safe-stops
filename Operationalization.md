@@ -19,6 +19,7 @@ So, where can we get data on how to quanitfy these things?
 4. Foot traffic:
     - NYC OpenData "Bi-Annual Pedestrian Counts" don't provide enough information; only 114 locations in all of NYC.
     - [Placemeter's](https://www.placemeter.com/) data is a single snapshot from [November 2013](http://www.nyc.gov/html/analytics/html/misc/definitions.html) and raw data is not available.
+    -look at Transit Wireless and Contact Chris Jacks
 5. 
 6. 
 7. Street furniture:
